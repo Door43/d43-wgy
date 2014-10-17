@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wgy:home|Door43 (wgy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wgy|d43-wgy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wgy/archive/master.zip|d43-wgy.zip]]
+
+**Recent Changes**
+{{changes>ns = wgy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wgy|Ethnologue data]]
+
